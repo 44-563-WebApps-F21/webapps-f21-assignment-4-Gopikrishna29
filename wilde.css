@@ -1,0 +1,28 @@
+h6 {
+    font-size: 15px;
+    color:black;
+  }
+  
+  }
+.stageDirection {
+    background-color: rgb(202, 207, 186);
+    font-size: 15px;
+    color: rgba(20, 20, 19, 0.959);
+
+  }
+
+.stageDirection:hover {
+    background-color: yellow;
+    color:rgb(248, 7, 7);
+  }
+.speech{
+    font-size: 15px;
+    color: rgb(46, 1, 1);  
+  }
+
+.LORDDARLINGTON{
+    color:rgb(216, 24, 24);
+}
+.LADYWINDERMERE{
+    color:rgb(243, 131, 3);
+}
