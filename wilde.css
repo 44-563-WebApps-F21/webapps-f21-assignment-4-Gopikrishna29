@@ -66,3 +66,26 @@ td {
     flex-direction: row;
     align-items: center;
   }
+
+  ul.navbar-horizontal {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  
+  }
+  
+  ul.navbar-horizontal li {
+    float:left;
+    color:#000;
+    background-color:rgba(182, 182, 161, 0.959);
+  }
+  
+  ul.navbar-horizontal a {
+    display:block;
+    padding:8px
+  }
+  
+  ul.navbar-horizontal a:hover {  
+    background-color: #555;
+    color:white;
+  }
